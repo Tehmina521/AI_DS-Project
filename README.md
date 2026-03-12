@@ -25,6 +25,7 @@ Logistic Regression (Accuracy: 78.8%)
 
 1. clone the repository
 https://github.com/Tehmina521/AI_DS-Project
+
 cd task1
 
 2. Install dependencies
